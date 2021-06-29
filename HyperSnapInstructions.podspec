@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.static_framework = true
   s.summary      = "HyperVerge's iOS Framework for Instruction screens"
   s.description  = "Instructions screens for HyperSnapSDK"
-  s.homepage     = "https://github.com/hyperverge/capture-ios-sdk"
+  s.homepage     = "https://github.com/hyperverge/HyperSnapInstructions"
   s.author       = "HyperVerge"
   s.platform     = :ios
   s.ios.deployment_target = "9.0"
