@@ -1,0 +1,11 @@
+framework module HyperSnapInstructions {
+  umbrella header "HyperSnapInstructions.h"
+
+  export *
+  module * { export * }
+}
+
+module HyperSnapInstructions.Swift {
+    header "HyperSnapInstructions-Swift.h"
+    requires objc
+}
