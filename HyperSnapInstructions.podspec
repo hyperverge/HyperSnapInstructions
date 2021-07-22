@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "HyperSnapInstructions"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.static_framework = true
   s.summary      = "HyperVerge's iOS Framework for Instruction screens"
   s.description  = "Instructions screens for HyperSnapSDK"
